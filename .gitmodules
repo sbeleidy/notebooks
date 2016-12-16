@@ -1,0 +1,9 @@
+[submodule "406-maze-project"]
+	path = 406-maze-project
+	url = https://github.com/sbeleidy/406-maze-project.git
+[submodule "406-DP-Project"]
+	path = 406-DP-Project
+	url = https://github.com/sbeleidy/406-DP-Project.git
+[submodule "406-AlgoBOWL"]
+	path = 406-AlgoBOWL
+	url = https://github.com/sbeleidy/406-AlgoBOWL.git
