@@ -7,3 +7,6 @@
 [submodule "406-AlgoBOWL"]
 	path = 406-AlgoBOWL
 	url = https://github.com/sbeleidy/406-AlgoBOWL.git
+[submodule "billionaires_analysis"]
+	path = billionaires_analysis
+	url = git@github.com:sbeleidy/billionaires_analysis.git
