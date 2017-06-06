@@ -10,3 +10,6 @@
 [submodule "billionaires_analysis"]
 	path = billionaires_analysis
 	url = git@github.com:sbeleidy/billionaires_analysis.git
+[submodule "data-visualization-slides"]
+	path = data-visualization-slides
+	url = git@github.com:sbeleidy/data-visualization-slides.git
